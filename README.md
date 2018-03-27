@@ -1,2 +1,3 @@
-# SYGTVG-MODS
-Official repository for SYGTVG mods.
+# Cheater!!
+
+If you found this repository, then this means you are a cheater.
