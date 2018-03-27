@@ -1,3 +1,3 @@
 @echo off
 echo Script not tested!
-RPG_RT.exe BattleTest
+RPG_RT.exe BattleTest ShowTitle
